@@ -13,7 +13,7 @@ We would be having a capstone project ( assignment ) at the end, which will cove
 #### Syllabus - What you will learn from this course
 
 
-1. [Introduction]
+1. [Introduction](https://github.com/whiteHatpro/Flutter_Summer_Group_2021/tree/master/Module%201)
 
 This module includes installation, Hello world application, Fundamentals of Flutter framework, and basic widgets of Flutter.
 
